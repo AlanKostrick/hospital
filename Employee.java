@@ -1,7 +1,7 @@
-public class Emplyee {
+public class Employee {
     int patientHealth;
 
-    public Emplyee() {
+    public Employee() {
         this.patientHealth = 10;
     }
 
